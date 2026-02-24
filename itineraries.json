@@ -1,0 +1,52 @@
+[
+  {
+    "id": "53167",
+    "name": "Seafood rice",
+    "category": "Seafood",
+    "vegetarian": false,
+    "calories": 9,
+    "note": ""
+  },
+  {
+    "name": "Noodle bowl salad",
+    "category": "Seafood",
+    "vegetarian": true,
+    "calories": 9,
+    "note": ""
+  },
+  {
+    "name": "Pomegranate salad",
+    "category": "Vegetarian",
+    "vegetarian": true,
+    "calories": 0,
+    "note": ""
+  },
+  {
+    "name": "Apam balik",
+    "category": "Dessert",
+    "vegetarian": false,
+    "calories": 0,
+    "note": ""
+  },
+  {
+    "name": "New York cheesecake",
+    "category": "Dessert",
+    "vegetarian": true,
+    "calories": 12,
+    "note": ""
+  },
+  {
+    "name": "Fettucine alfredo",
+    "category": "Pasta",
+    "vegetarian": false,
+    "calories": 0,
+    "note": ""
+  },
+  {
+    "name": "Lamb Biryani",
+    "category": "Lamb",
+    "vegetarian": false,
+    "calories": 0,
+    "note": ""
+  }
+]

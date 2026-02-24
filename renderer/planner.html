@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Meal Plan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>My Meal Plan</h1>
+
+<h3>Edit Meal (Update)</h3>
+<p>Click "Edit" in the table, then change the fields below and press "Save Changes".</p>
+
+<input type="text" id="editName" placeholder="Meal Name" disabled>
+<input type="number" id="editCalories" placeholder="Calories">
+<select id="editVegetarian">
+  <option value="false">Non-Vegetarian</option>
+  <option value="true">Vegetarian</option>
+</select>
+<input type="text" id="editNote" placeholder="Note">
+
+<button id="saveEditBtn">Save Changes</button>
+
+<br><br>
+
+<table border="1" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Meal</th>
+      <th>Category</th>
+      <th>Vegetarian</th>
+      <th>Calories</th>
+      <th>Note</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody id="planTable"></tbody>
+</table>
+
+<br>
+
+<button id="loadBtn">Load My Meals</button>
+<button id="filterVegBtn">Show Vegetarian Meals</button>
+<button id="totalCalBtn">Calculate Total Calories</button>
+<button id="suggestBtn">Suggest Meal</button>
+
+<p id="result"></p>
+
+<br>
+<button id="closePlannerBtn">Close</button>
+
+<script src="planner.js"></script>
+</body>
+</html>
