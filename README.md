@@ -29,11 +29,11 @@ The application was developed as part of an Object-Oriented Programming project,
 
 Example:
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
-![Meal Search](screenshots/meal_search.png)
+![Meal Search](meal_search.png)
 
-![Meal Planner](screenshots/meal_planner.png)
+![Meal Planner](meal_planner.png)
 
 ## Main Functions
 
