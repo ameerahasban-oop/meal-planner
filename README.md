@@ -75,7 +75,7 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ameerahasban-oop/memoir-event-reminder
+git clone https://github.com/ameerahasban-oop/meal-planner
 ```
 
 ### 2. Open the project folder
