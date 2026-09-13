@@ -75,13 +75,13 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/ameerahasban-oop/memoir-event-reminder
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd <PROJECT-FOLDER>
+cd meal-planner
 ```
 
 ### 3. Install dependencies
